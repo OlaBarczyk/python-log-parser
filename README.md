@@ -1,2 +1,2 @@
-# python-log-parser
-Educational project for parsing and analyzing system log files using Python.
+# Python Log Parser
+Educational project for parsing and analyzing system logs.
