@@ -6,10 +6,10 @@ Educational project for parsing and analyzing system logs.
 
 ## Usage
 ```bash
-# Read and print logs
+### Read and print logs
 python log_parser.py /path/to/logfile.log
 
-# Detect brute-force SSH attacks
+### Detect brute-force SSH attacks
 python detect_bruteforce.py sample_logs/auth.log 5 5
 ```
 ## Example Output
